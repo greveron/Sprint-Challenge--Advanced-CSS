@@ -34,13 +34,30 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the difference between an adaptive website and a fully responsive website?
 
+The difference between an adaptable website and a responsive website is that the adaptable website can be adapted to the browser, it awaits the width of the browser to adapt, it fits the browser regardless of its design
+
+
 2. Describe what it means to be mobile first vs desktop first.
+
+
+This means that the website was first designed for a mobile device and needs to check sizes to fit and display the site on a computer.
+
 
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
 
+The unit em is relative to the parent size,. you can define a simple font size in the html element and define all the rem units to be percentage. 62.5% equals 1.4rem = 14px
+
+
 4. How would you describe preprocessing to someone new to CSS?
 
+
+Every programming language needs a compiler in this case preprocessing the code in LESS so that a shorter or nested code the processing develops and executes it as a class or elements in our CSS sheet
+
+
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
+
+The processing itself mixed or nested already relieves the work of the web designer, so with the processing LESS I like to work it, as it is known more the way of use is improved for its full use. It is normal for the first few times makes troubles up to know the tool.
+
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
