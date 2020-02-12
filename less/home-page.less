@@ -19,7 +19,7 @@
     }
   
   }
-
+  
   .space-images {
     display: flex;
     flex-wrap: wrap;
@@ -34,11 +34,17 @@
         width: 90%;
         margin: 0 5%;
       }
+      .sky {
+        @media @phone{
+          display: none;
+        }
+        .launch{
+          @media @phone{
+            display: none;
+          }
+        }
   }
-  .sky .launch{
-    @media @phone{
-      display: none;
-    }
+  
 }
   }
   .visit-planets {
